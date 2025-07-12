@@ -1,5 +1,5 @@
 # Trending Movie Search Page
-Built with React.js, Bootstrap CSS, and appwrite.
+Built with React.js, TailWind CSS, and appwrite.
 
 ## Usage
 ```bash
